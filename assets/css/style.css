@@ -1,0 +1,50 @@
+
+
+
+
+header {
+
+  background-color: skyblue;
+  padding: 10px;
+
+}
+
+
+h1 {
+
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+
+}
+
+
+
+a {
+
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+
+}
+
+
+
+
+footer {
+
+  background-color: skyblue;
+  padding: 30px;
+
+}
+
+
+.card-group .card img.card-img-top {
+
+  width: auto;
+  height: 300px; 
+  object-fit: cover; 
+  
+}
+
